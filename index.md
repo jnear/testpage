@@ -1,6 +1,10 @@
-# 
+---
+permalink: /
+layout: home
+title: Welcome
+---
 
-Intro
+Intro this is resources for learning differential privacy
 
 ## Resources for Policymakers
 
