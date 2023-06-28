@@ -1,10 +1,10 @@
 ---
 permalink: /
 layout: home
-title: Welcome
+title: Learn about DP
 ---
 
-Intro this is resources for learning differential privacy
+Resources for learning differential privacy
 
 ## Resources for Policymakers
 
