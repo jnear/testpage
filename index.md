@@ -1,5 +1,3 @@
-# Learn about Differential Privacy
-
 ## Resources for Policymakers
 
 Test 1
