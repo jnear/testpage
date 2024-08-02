@@ -50,7 +50,7 @@ all_resources = {
          'link': 'https://dpcourse.github.io/'},
 
         {'title': 'CS 208 - Applied Privacy for Data Science',
-         'author': 'Salil Vadhan',
+         'author': 'Salil Vadhan, James Honaker, Wanrong Zhang',
          'description': 'The risks to privacy when making human subjects data available for research and how to protect against these risks using the formal framework of differential privacy. Methods for attacking statistical data releases, the mathematics of and software implementations of differential privacy, deployed solutions in industry and government. Assignments will include implementation and experimentation on data science tasks.',
          'badges': ['Technical', 'Course Notes'],
          'link': 'https://opendp.github.io/cs208/'}
